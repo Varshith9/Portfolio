@@ -125,6 +125,4 @@ Feel free to reach out to me:
 
 ---
 
-## License
 
-This repository is open-sourced and licensed under the [MIT License](LICENSE).
