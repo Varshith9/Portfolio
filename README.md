@@ -1,4 +1,4 @@
-# Varshith Rao - Portfolio
+# Varshith Rao 
 
 Welcome to my GitHub portfolio! This portfolio showcases my professional journey, skills, and projects as a Full Stack Developer. 
 
@@ -15,6 +15,17 @@ I am a highly skilled Full Stack Java/J2EE Developer with over seven years of ex
 - **Databases:** PostgreSQL, MongoDB, Cassandra, AWS DynamoDB
 - **Cloud Platforms:** AWS (EC2, S3, Lambda, RDS), PCF/CF
 - **Tools:** Jenkins, Docker, Kubernetes, Prometheus, Grafana
+Languages:  Java 11, JavaScript (ES-9)
+Frameworks: Spring Boot, Spring Data JPA, Spring Cloud, Spring WebFlux, Spring Security, Spring Kafka, Spring Batch, ExpressJS with NodeJS
+APIs: RESTful Web Services, SOAP Web Services, GraphQL, WebSocket
+Monitoring Tools: Prometheus, Grafana, Alert Manager, Spring Micrometer
+Messaging Platforms: Kafka, RabbitMQ, IBM MQ
+Front-End Technologies: React, Angular
+Integration Systems: Apache Camel, Spring Batch, Spring Integration
+Relational Databases: PostgreSQL, Oracle with Flyway
+NoSQL Databases: MongoDB, Cassandra, AWS DynamoDB, Elasticsearch, Redis
+Cloud Providers: AWS (EC2, SQS, SNS, RDS, CloudWatch, Route 53, Lambda, IAM, ECS), PCF/CF 
+Containers: Docker, Kubernetes
 
 ## Work Experience
 
